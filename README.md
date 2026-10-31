@@ -1,5 +1,5 @@
 # Weather-Prediction
-End-to-end weather prediction project using Python, XGBoost and GridSearchCV. Built a complete ML workflow covering data preprocessing, feature engineering, model training and optimisation, improving prediction accuracy from 76.8% to 80.9%.
+End-to-end weather prediction project using Python, XGBoost and GridSearchCV. I developed a next-day weather forecasting model using historical weather data, achieving 64.0% prediction accuracy with Random Forest, while also achieving 81.6% accuracy on same-day weather classification
 
 Seattle Weather Classification & Next-Day Prediction
 
@@ -106,7 +106,7 @@ Confusion matrices identified classification errors and highlighted which weathe
 
 Feature importance was analyzed to determine which meteorological variables contributed most to model predictions.
 
----
+
 
 Next-Day Weather Prediction
 
@@ -141,7 +141,6 @@ The resultsThe results also showed that genuine next-day forecasting is more cha
 * Chronological validation provided a more realistic assessment of forecasting performance.
 * Feature engineering with historical observations enabled the project to progress from classification to genuine prediction.
 
----
 
 Limitations
 

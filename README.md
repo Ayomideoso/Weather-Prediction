@@ -1,5 +1,5 @@
 # Weather-Prediction
-End-to-end weather prediction project using Python, XGBoost and GridSearchCV. I developed a next-day weather forecasting model using historical weather data, achieving 64.0% prediction accuracy with Random Forest, while also achieving 81.6% accuracy on same-day weather classification
+Weather prediction project using Python, XGBoost and GridSearchCV. I developed a next-day weather forecasting model using historical weather data, achieving 64.0% prediction accuracy with Random Forest, while also achieving 81.6% accuracy on same-day weather classification
 
 Seattle Weather Classification & Next-Day Prediction
 
